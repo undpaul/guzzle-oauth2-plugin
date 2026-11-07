@@ -1,6 +1,6 @@
 {
-    "name": "sainsburys/guzzle-oauth2-plugin",
-    "description": "An OAuth2 middleware for Guzzle",
+    "name": "undpaul/guzzle-oauth2-plugin",
+    "description": "An OAuth2 middleware for Guzzle based on commerceguys/guzzle-oauth2-plugin",
     "license": "MIT",
     "require": {
         "php": "^8.5",
